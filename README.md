@@ -1,1 +1,1 @@
-My first(?) Hexlet project
+My first (not really) Hexlet project
