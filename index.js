@@ -1,5 +1,6 @@
-import printLastMessage from "./src/index.js";
-let msg1 = 'one';
-let msg2 = 'two';
+import printLastMessage from './src/index.js';
 
-printLastMessage (msg1, msg2)
+const msg1 = 'one';
+const msg2 = 'two';
+
+printLastMessage(msg1, msg2);
