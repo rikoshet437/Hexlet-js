@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "My first(?) Hexlet project",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,5 +22,8 @@
   "homepage": "https://github.com/rikoshet437/Hexlet-js#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.2"
   }
 }
